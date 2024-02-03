@@ -45,13 +45,15 @@ class RegisterForm(models.Model):
 
 
 Home Page
+![Screenshot 2024-02-03 122138](https://github.com/Siva0910/Django-CRUD/assets/95603330/50e2b1b3-37b8-4ad9-bd02-edcc375489f0)
 
-![Screenshot 2024-02-03 122138](https://github.com/Siva0910/Django-CRUD/assets/95603330/10500ef8-96ef-424f-9225-5c5c5e09b8cd)
+
 
 Insert_page
-![Insert](https://github.com/Siva0910/Django-CRUD/assets/95603330/7e5ae942-6104-4965-9d5d-1ae12228b18e)
+![Insert](https://github.com/Siva0910/Django-CRUD/assets/95603330/01fc5caf-a788-4dba-937f-589797b3e459)
+
 
 
 Update_page
+![Update](https://github.com/Siva0910/Django-CRUD/assets/95603330/feec7ba8-9c6b-407a-a523-9a072b09f4b3)
 
-![Update](https://github.com/Siva0910/Django-CRUD/assets/95603330/fc5841a2-ef4b-4613-a12f-36f3e85f7c8c)
